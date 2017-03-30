@@ -8,4 +8,4 @@ See `complete` branch for an example.
 
 >"Strong Pokémon. Weak Pokémon. That is only the selfish perception of people. Truly skilled trainers should try to win with their favorites."
 
-From Elite Four Karen (Pokémon Gold/Silver) [bulbapedia.bulbagarden.net/wiki/Karen]
+From Elite Four Karen (Pokémon Gold/Silver) [bulbapedia.bulbagarden.net/wiki/Karen](bulbapedia.bulbagarden.net/wiki/Karen)
