@@ -5,3 +5,10 @@ As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-g
 In the space below, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+| **Course Number** | **Course Title**                        | **Instructor** |
+| ----------------- |  -------------------------------------- | -------------- |
+| AMATH 301         | Beginning Scientific Computing          | King Fai-Lee   |
+| MATH 309          | Linear Analyis                          | Sean McCurdy   |
+| ENGR 231          | Introduction to Technical Communication | Chris Wrenn    |
+| INFO 201          | Technical Foundations                   | Mike Freeman   |
